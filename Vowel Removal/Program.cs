@@ -25,7 +25,7 @@ namespace Vowel_Removal
                     {
                         Vowels++;
                     }
-                    if ("aeiouAEIOU".Contains(c) != true)
+                    else
                     {
                         notAVowel.Append(c);
                     }
