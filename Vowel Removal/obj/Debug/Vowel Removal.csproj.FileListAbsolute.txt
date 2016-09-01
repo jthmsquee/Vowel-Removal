@@ -1,0 +1,6 @@
+c:\users\owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\bin\Debug\Vowel Removal.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\bin\Debug\Vowel Removal.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\bin\Debug\Vowel Removal.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\obj\Debug\Vowel Removal.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\obj\Debug\Vowel Removal.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\Vowel Removal\Vowel Removal\obj\Debug\Vowel Removal.pdb
